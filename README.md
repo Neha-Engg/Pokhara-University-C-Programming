@@ -10,3 +10,13 @@ Welcome to my portfolio! I am a first-year engineering student at Pokhara Univer
 ## Contents
 * Lab Practicals: Official university lab work assignments.
 * Daily Practice: Additional logic problems solved independently.
+
+
+
+
+
+
+
+1.**Student welcome program ('day1_wecome.c')**
+* **The question:** Write a C program to accept a student's identification number as input from the user and display a clean welcome message containing that ID number.
+* **Concept used:** Variable declarations ('int'), console user inputs ('scanf'), and formatted screen outputs ('printf').
